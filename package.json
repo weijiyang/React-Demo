@@ -1,0 +1,25 @@
+{
+  "name": "react-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack-dev-server --open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/weijiyang/React-Demo.git"
+  },
+  "author": "糖少",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/weijiyang/React-Demo/issues"
+  },
+  "homepage": "https://github.com/weijiyang/React-Demo#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "webpack": "^4.42.0",
+    "webpack-dev-server": "^3.10.3"
+  }
+}
