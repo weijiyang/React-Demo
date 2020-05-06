@@ -1,0 +1,26 @@
+.container {
+    width: 500px;
+    margin: 0 auto;  
+    padding: 40px;
+    border: 1px solid #222222;
+  }
+  .name {
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 20px;
+  
+  }
+  .feature {
+    display: flex;
+    justify-content: space-around;
+    font-size: 25px;
+    font-weight: bold;
+  }
+  .border {
+    width: 30px;
+    height: 30px;
+    text-align: center;
+    line-height:30px;
+    border: 1px solid #282c34;
+  }
