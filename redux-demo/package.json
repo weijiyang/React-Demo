@@ -1,5 +1,5 @@
 {
-  "name": "react-redux",
+  "name": "redux-demo",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -30,5 +30,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "react-redux": "^7.2.0",
+    "redux": "^4.0.5"
   }
 }
